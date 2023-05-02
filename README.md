@@ -1,0 +1,6 @@
+# University-Grade-Calculator
+Türkçe:
+  Üniversite öğrencilerinin not ortalamalarını hesaplamalarına ve bu not ortalamalarını harf notuna dönüştürmelerine yardımcı olan bir masaüstü uygulamasıdır. Uygulama, kullanıcıların vize, final, ödev, kısa sınav gibi notları girmelerine olanak tanır ve bu notları belirtilen oranlara göre hesaplayarak not ortalamasını bulur. Daha sonra, hesaplanan not ortalamasını belirli bir harf notuna dönüştürür ve sonucu kullanıcıya gösterir. Ayrıca, kullanıcılar programdan çıkış yapabilirler. Program, Python programlama dili ve Tkinter arayüz kitaplığı kullanılarak geliştirilmiştir ve .exe uzantılı olarak dağıtılmaktadır.
+
+English:
+  The University-Grade-Calculator is a desktop application that helps university students calculate their grade point averages and convert them into letter grades. The application allows users to enter their grades for exams, assignments, quizzes, etc., and calculates the overall GPA based on the weightings provided. It then converts the calculated GPA into a specific letter grade and displays the result to the user. Users can also exit the program if needed. The program was developed using the Python programming language and the Tkinter GUI library, and is distributed in .exe format.
